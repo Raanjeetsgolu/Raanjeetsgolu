@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 💬 Ask me about **Kubernates, Docker, Python, Machine Learning**
+- 💬 Ask me about **Kubernates, Docker, Python, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **meetrgolu@gmail.com**
 
