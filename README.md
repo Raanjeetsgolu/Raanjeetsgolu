@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Devops** and **AI/ML**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning**, and  **Deep Learning** Projects.
 
 - 💬 Ask me about **Kubernates, Docker, Python, Machine Learning, Deep Learning**
 
