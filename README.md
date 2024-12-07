@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iranjeetsgolu" target="blank"><img src="https://img.shields.io/twitter/follow/iranjeetsgolu?logo=twitter&style=for-the-badge" alt="iranjeetsgolu" /></a> </p>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Devops** and **AI/ML**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
