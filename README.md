@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Kubernates, Docker, Python, Machine Learning, Deep Learning**
 
-- 📫 How to reach me **meetrgolu@gmail.com**
+- 📫 How to reach me **meetranjeet10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
