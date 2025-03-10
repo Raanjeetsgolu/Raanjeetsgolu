@@ -5,13 +5,22 @@
 
 <p align="left"> <a href="https://twitter.com/iranjeetsgolu" target="blank"><img src="https://img.shields.io/twitter/follow/iranjeetsgolu?logo=twitter&style=for-the-badge" alt="iranjeetsgolu" /></a> </p>
 
-- 🌱 I’m currently learning **Devops** and **AI/ML**
+🚀 **AI/ML Engineer | NLP | MLOps | Full-Stack ML**  
 
-- 👯 I’m looking to collaborate on **Machine Learning**, and  **Deep Learning** Projects.
+I specialize in **building and deploying AI/ML solutions** that scale. Passionate about **NLP, deep learning, and MLOps**, I work on end-to-end machine learning systems—from **EDA to deployment**.  
 
-- 💬 Ask me about **Kubernates, Docker, Python, Machine Learning, Deep Learning**
+## 🔬 AI/ML Expertise  
+- **Machine Learning & Deep Learning**: Model development, fine-tuning, and deployment  
+- **NLP**: Text processing, transformer models, LangChain, Retrieval-Augmented Generation (RAG)  
+- **MLOps**: MLflow, KServe, Kubernetes, Terraform, CI/CD for ML pipelines  
+- **Data Science**: Exploratory Data Analysis (EDA), feature engineering, model interpretability  
 
-- 📫 How to reach me **meetranjeet10@gmail.com**
+## 📂 Notable Projects  
+- 📚 **Book Recommendation System** – Built a recommendation engine handling missing/zero publish years  
+- 🤖 **Chatbot with RAG** – Leveraged **LangChain** to interact with a **703-page user guide**  
+- 📊 **AI-Powered Monitoring** – Integrated **Grafana** with AI-based anomaly detection for infra monitoring
+  
+📫 How to reach me **meetranjeet10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
